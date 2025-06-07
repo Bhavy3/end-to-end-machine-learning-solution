@@ -1,0 +1,501 @@
+age,income,education,experience,location,job_title,department,target
+60,81657,Associate,23,San Diego,Job_0,Operations,45691.28921308262
+67,143913,PhD,6,Dallas,Job_1,R&D,15071.032800861132
+31,137868,Associate,28,Philadelphia,Job_2,IT,68483.24748337445
+43,32763,Master,25,New York,Job_3,R&D,66195.43479352682
+35,94483,Associate,14,Houston,Job_4,Operations,60832.55985584289
+60,118481,Vocational,25,Chicago,Job_5,Marketing,33191.74700296175
+22,145240,Bachelor,22,San Antonio,Job_6,Engineering,18197.15921345243
+19,52714,Vocational,11,San Diego,Job_7,R&D,39626.91500774549
+52,102764,Master,14,Phoenix,Job_8,Legal,37587.08389104986
+56,77463,Vocational,5,New York,Job_9,Sales,35492.692338701374
+67,28024,Master,17,Houston,Job_10,Sales,65361.59134549398
+59,63114,Bachelor,11,San Jose,Job_11,HR,36749.55057862102
+66,67801,Bachelor,24,San Diego,Job_12,R&D,65092.759232707045
+64,62197,Vocational,19,New York,Job_13,Engineering,50086.643299819654
+54,73719,Associate,25,Chicago,Job_14,Sales,71822.37745461057
+26,24769,Vocational,27,Philadelphia,Job_15,Sales,35083.5054887211
+54,72405,Technical,26,Dallas,Job_16,Legal,35814.83748582237
+46,101650,Associate,8,New York,Job_17,R&D,4488.020158861938
+29,98120,High School,3,Chicago,Job_18,Legal,53500.64501838106
+68,75631,Associate,17,Houston,Job_19,HR,87563.40158451062
+34,134377,Technical,1,Los Angeles,Job_20,Engineering,56017.06075061236
+20,87689,Bachelor,23,San Antonio,Job_21,Finance,31237.573561848316
+59,77339,Associate,15,San Diego,Job_22,Operations,47183.68318547219
+22,43310,High School,22,San Jose,Job_23,HR,30741.508412359155
+25,134448,Vocational,15,Philadelphia,Job_24,Customer Service,73476.69869220481
+33,45855,Master,15,New York,Job_25,R&D,56559.03687316667
+61,92717,Technical,18,Dallas,Job_26,Marketing,41373.95922474627
+51,51179,Vocational,19,Dallas,Job_27,Engineering,72752.31008612261
+67,121430,Technical,28,Phoenix,Job_28,Finance,60937.9504303817
+27,130923,High School,15,San Jose,Job_29,R&D,49189.20386001263
+67,54113,Vocational,22,New York,Job_30,Operations,43750.66536415826
+34,28209,PhD,21,New York,Job_31,Customer Service,44252.70296322174
+38,121876,Technical,15,New York,Job_32,Sales,61747.25821016832
+50,33090,Master,23,Los Angeles,Job_33,R&D,47350.16975389568
+37,130042,Associate,4,Dallas,Job_34,IT,56448.421650482946
+65,78526,PhD,7,New York,Job_35,Sales,51261.91930663629
+24,49520,Associate,25,Dallas,Job_36,Operations,59389.09093081834
+30,78488,Associate,3,Houston,Job_37,IT,49927.13534459891
+57,63106,Associate,28,San Antonio,Job_38,Operations,25421.244344046903
+34,99087,Technical,17,New York,Job_39,Customer Service,53948.09188711708
+35,76799,Vocational,25,San Diego,Job_40,Marketing,67113.49525257878
+51,136093,Master,7,New York,Job_41,R&D,46164.568815280916
+54,33941,Associate,24,Philadelphia,Job_42,HR,79107.038077409
+20,28302,Technical,13,Houston,Job_43,Customer Service,59121.110284600974
+20,120667,PhD,29,New York,Job_44,Marketing,57174.27306710609
+62,50253,Associate,9,Los Angeles,Job_45,Sales,47366.25911668925
+46,66045,Associate,22,New York,Job_46,Engineering,42271.85026359827
+38,35188,Technical,25,Philadelphia,Job_47,Marketing,36203.644512713945
+51,90840,Bachelor,5,Los Angeles,Job_48,Customer Service,46895.97683664738
+27,144080,Associate,19,Houston,Job_49,Finance,50291.05297353396
+68,43594,Bachelor,24,Phoenix,Job_0,Engineering,49580.417596833584
+55,78813,Associate,25,San Diego,Job_1,Legal,53954.23809559987
+64,143745,Bachelor,4,San Jose,Job_2,Finance,49093.07872960144
+49,38158,Technical,13,San Antonio,Job_3,Legal,63953.096133044615
+21,36274,Technical,3,Philadelphia,Job_4,IT,35434.09365988585
+27,75891,High School,21,Los Angeles,Job_5,Marketing,36397.285818492266
+48,55301,Master,14,San Diego,Job_6,Engineering,50283.5762527546
+69,90017,PhD,14,San Antonio,Job_7,Marketing,46682.56686534042
+63,86560,Vocational,19,Dallas,Job_8,Operations,48679.28903507736
+55,83693,High School,22,San Jose,Job_9,Customer Service,42451.34723453921
+33,70093,Vocational,11,San Diego,Job_10,R&D,60242.17830910094
+22,112579,Technical,29,Houston,Job_11,Customer Service,24564.18495085952
+36,58745,Technical,18,Dallas,Job_12,Legal,38113.76770207542
+36,80187,Master,9,Houston,Job_13,Legal,37932.15755271165
+65,109710,High School,11,San Antonio,Job_14,Operations,34747.408332309526
+49,146478,PhD,14,New York,Job_15,IT,33201.32526791587
+45,36234,Master,12,San Jose,Job_16,R&D,49412.647842561884
+48,103939,Technical,20,Phoenix,Job_17,Marketing,68832.48064430198
+31,50333,Vocational,28,San Jose,Job_18,Marketing,32083.809597212083
+52,24870,Vocational,3,New York,Job_19,Marketing,45991.223168822384
+51,125516,Technical,3,Phoenix,Job_20,Marketing,27937.5644701442
+30,89827,High School,0,Phoenix,Job_21,Finance,60489.71114909956
+61,47306,Bachelor,29,San Diego,Job_22,Finance,58633.70911239571
+67,70982,Vocational,7,Dallas,Job_23,R&D,58930.87641713681
+66,96942,Associate,23,Philadelphia,Job_24,Sales,24165.931797095844
+46,136339,High School,19,San Diego,Job_25,Customer Service,57184.58987925886
+20,47886,Vocational,9,New York,Job_26,HR,41786.97292045049
+65,39390,Vocational,19,San Diego,Job_27,Sales,57713.340074834334
+23,61348,PhD,20,New York,Job_28,Customer Service,38673.67502539588
+53,86692,Technical,21,Phoenix,Job_29,Operations,51790.76589670893
+41,119925,Vocational,4,Phoenix,Job_30,Engineering,36570.69023488847
+22,128660,Vocational,11,Phoenix,Job_31,IT,48953.00916215625
+25,20871,Vocational,25,Dallas,Job_32,IT,43156.35055324973
+67,33892,High School,26,Houston,Job_33,Engineering,41299.90200639427
+51,116584,PhD,2,San Diego,Job_34,HR,67430.07336020493
+63,89451,Technical,27,Houston,Job_35,Customer Service,61467.733073911666
+26,65057,Bachelor,2,Dallas,Job_36,IT,35680.64629697017
+56,83729,Technical,28,Houston,Job_37,R&D,52108.58923220269
+45,66742,High School,17,New York,Job_38,Engineering,55717.53404448678
+38,128968,Associate,2,Chicago,Job_39,Marketing,6111.705347484261
+60,26965,Master,8,San Jose,Job_40,Operations,22779.994372194316
+61,121807,Bachelor,7,Phoenix,Job_41,R&D,58450.570434902125
+56,98409,Bachelor,27,Chicago,Job_42,Finance,58585.491762984406
+37,114552,High School,20,San Jose,Job_43,Operations,75849.78592755258
+20,142760,Bachelor,3,San Diego,Job_44,IT,45470.69530933483
+52,120259,Vocational,12,San Antonio,Job_45,Finance,80010.07744019707
+62,57750,High School,29,San Antonio,Job_46,Sales,60506.625991303554
+51,27006,Technical,25,San Jose,Job_47,Engineering,86195.92316321628
+40,28905,High School,2,Dallas,Job_48,Customer Service,47326.61101346497
+33,65368,Associate,21,San Jose,Job_49,HR,16330.43963290599
+49,145863,High School,22,Chicago,Job_0,Engineering,51776.50140015497
+32,123457,Vocational,7,Phoenix,Job_1,Marketing,53741.94287286775
+19,149900,Master,3,Philadelphia,Job_2,Sales,18510.794445826876
+58,118197,Vocational,1,San Antonio,Job_3,Engineering,70610.0408222485
+56,137101,Vocational,18,Phoenix,Job_4,Finance,56235.37032257934
+39,38147,High School,15,Philadelphia,Job_5,Operations,63421.648382443585
+24,86698,Master,15,Los Angeles,Job_6,Sales,36380.2990714616
+57,62209,Technical,4,San Antonio,Job_7,Engineering,80038.60221728135
+52,103901,Vocational,1,New York,Job_8,HR,62011.903441220464
+55,59124,Vocational,12,New York,Job_9,R&D,39783.15207464403
+36,79231,PhD,8,San Diego,Job_10,Sales,46708.573056234956
+49,133080,Master,18,San Jose,Job_11,R&D,19203.730814158538
+63,79394,Technical,10,Houston,Job_12,Sales,39457.29082192038
+29,39170,Associate,15,Houston,Job_13,R&D,56734.5872785609
+23,103914,Technical,1,San Jose,Job_14,IT,67412.45585401598
+27,70550,High School,1,San Antonio,Job_15,HR,51109.43117466648
+52,82895,Bachelor,18,Chicago,Job_16,Engineering,38853.231444562814
+66,126160,Bachelor,15,Chicago,Job_17,R&D,37830.069862852004
+54,41626,Vocational,9,San Diego,Job_18,Marketing,54298.502323211134
+18,56483,Technical,7,Philadelphia,Job_19,Operations,38233.94258218985
+58,42113,Vocational,27,San Diego,Job_20,IT,52200.86989845654
+66,55678,High School,25,New York,Job_21,R&D,72018.26578818899
+55,46070,Vocational,19,Philadelphia,Job_22,IT,33949.31582950713
+68,52395,Technical,12,New York,Job_23,Operations,60712.72414871636
+19,20334,Bachelor,10,Phoenix,Job_24,Finance,35923.712995710084
+26,73066,Bachelor,1,New York,Job_25,Operations,51972.65661067335
+52,144128,Vocational,20,Phoenix,Job_26,R&D,67553.43170393872
+43,37734,Vocational,21,Los Angeles,Job_27,R&D,38762.65770438212
+48,108868,PhD,0,Phoenix,Job_28,IT,62042.23308886179
+66,52815,Associate,11,San Jose,Job_29,R&D,46305.61712649417
+59,72941,Master,23,New York,Job_30,Marketing,65460.421879112044
+48,122644,Technical,24,Philadelphia,Job_31,Marketing,76483.09998195582
+36,147073,Master,15,Houston,Job_32,IT,49098.656645688716
+36,114134,High School,25,San Antonio,Job_33,Engineering,71992.39452586032
+68,66919,Vocational,27,San Diego,Job_34,R&D,60170.197495511035
+29,123332,Technical,28,Chicago,Job_35,Finance,40411.974409646646
+67,86208,PhD,8,Philadelphia,Job_36,R&D,53462.98053856177
+34,146732,PhD,21,Los Angeles,Job_37,Finance,78554.19252780933
+68,103419,Vocational,0,Chicago,Job_38,HR,36830.65798187519
+67,132167,High School,7,San Jose,Job_39,Customer Service,52509.16603594011
+30,41451,Vocational,27,Chicago,Job_40,Engineering,59084.33795667124
+18,91944,Master,2,Phoenix,Job_41,Sales,49317.52993609148
+30,94011,PhD,16,San Jose,Job_42,Operations,41836.691946943574
+37,84691,Bachelor,16,Houston,Job_43,Finance,78954.26065598454
+29,58081,PhD,13,Chicago,Job_44,IT,43893.32954444149
+60,105202,Technical,12,San Diego,Job_45,Operations,56968.22255452611
+28,41108,High School,6,Phoenix,Job_46,Engineering,37143.536006013805
+60,149872,PhD,17,San Diego,Job_47,Operations,27711.3691505487
+50,25223,High School,25,Dallas,Job_48,Engineering,45302.264122572786
+66,82724,Vocational,1,Philadelphia,Job_49,Finance,46343.95564760304
+56,140735,Bachelor,10,New York,Job_0,Operations,57550.18940825405
+45,95685,Master,17,Los Angeles,Job_1,Sales,23069.122938875826
+45,69234,High School,3,Los Angeles,Job_2,IT,48489.933830725306
+42,110708,PhD,8,San Jose,Job_3,Finance,35719.88992839203
+33,94446,Technical,8,Los Angeles,Job_4,Customer Service,58319.426204303345
+24,132417,Associate,26,San Antonio,Job_5,HR,32324.801224245868
+45,121172,Associate,18,Los Angeles,Job_6,IT,29385.155134597928
+38,120865,PhD,29,Phoenix,Job_7,HR,27098.785657918255
+21,67913,Bachelor,15,San Antonio,Job_8,Finance,46580.43230679798
+27,32533,Bachelor,2,Phoenix,Job_9,Engineering,38224.80578499797
+65,54743,Bachelor,20,Chicago,Job_10,Sales,70038.64946154742
+19,38723,Vocational,27,San Jose,Job_11,Finance,35634.336649301105
+34,98828,Vocational,5,San Jose,Job_12,IT,61951.77343675144
+55,21503,Vocational,6,San Antonio,Job_13,IT,44447.50694784916
+64,95359,Master,11,New York,Job_14,Sales,48433.1448825657
+47,56470,Master,25,Philadelphia,Job_15,Customer Service,53762.69279870575
+29,37380,Vocational,10,Houston,Job_16,HR,37372.876689284356
+30,66440,PhD,23,Chicago,Job_17,Legal,72794.35450842096
+46,51811,PhD,10,Dallas,Job_18,R&D,58883.67855873802
+40,100885,Technical,9,Dallas,Job_19,Legal,63172.39189780019
+46,78507,Associate,18,Chicago,Job_20,Marketing,75464.75042884488
+53,49777,Technical,13,Los Angeles,Job_21,Marketing,45206.95248811084
+52,37232,Technical,8,Phoenix,Job_22,Legal,77570.96212706949
+46,30528,High School,14,Phoenix,Job_23,Customer Service,54259.622348474724
+50,132828,Bachelor,5,Houston,Job_24,Sales,70972.74530599857
+49,148717,Bachelor,14,Chicago,Job_25,IT,70890.38162816795
+37,81264,Bachelor,18,San Antonio,Job_26,Engineering,33493.64340437131
+59,41937,High School,4,Dallas,Job_27,IT,78144.58281041583
+52,64001,Vocational,3,Dallas,Job_28,IT,52202.81995658329
+56,123693,Technical,17,San Diego,Job_29,Engineering,48879.17211816238
+57,97598,High School,28,Houston,Job_30,Finance,71909.06730300952
+60,52536,Master,12,Houston,Job_31,R&D,32591.677964804876
+23,110258,High School,20,Houston,Job_32,R&D,54612.247283558194
+43,145057,High School,8,San Antonio,Job_33,IT,41050.97020340942
+55,131172,Bachelor,19,San Diego,Job_34,Operations,46231.12579113495
+52,138556,Technical,27,Houston,Job_35,Customer Service,36448.702349572355
+23,100026,Vocational,9,Phoenix,Job_36,Finance,64740.2399633096
+61,144378,High School,21,Phoenix,Job_37,HR,46947.345406721244
+59,95481,Associate,29,San Diego,Job_38,Marketing,41581.833018075944
+66,135270,Associate,22,New York,Job_39,Operations,52062.33541966451
+46,72099,PhD,3,Houston,Job_40,Operations,57802.411112272704
+39,52490,High School,8,Dallas,Job_41,HR,59990.58156705469
+62,97355,Master,18,San Diego,Job_42,Marketing,72111.70345299228
+60,104135,Bachelor,12,Los Angeles,Job_43,R&D,45003.43009144677
+21,145317,Technical,24,Los Angeles,Job_44,IT,45231.117606511696
+25,77175,High School,9,San Diego,Job_45,Finance,42866.420498854044
+22,87914,Master,2,San Diego,Job_46,Operations,31417.51147665734
+53,100511,Master,14,Phoenix,Job_47,R&D,32253.396977999528
+41,28604,High School,17,San Jose,Job_48,HR,60524.91440407069
+34,58577,Vocational,3,Phoenix,Job_49,Customer Service,70074.90136400596
+42,99557,Master,11,New York,Job_0,R&D,38946.9145321165
+60,127264,Master,13,Phoenix,Job_1,Operations,54469.30679652074
+52,82964,Vocational,21,San Jose,Job_2,Finance,68913.11330135343
+69,134177,Master,14,Dallas,Job_3,Marketing,51713.02623067597
+25,141086,Vocational,3,San Antonio,Job_4,Marketing,41153.667329971
+50,84084,Vocational,28,Philadelphia,Job_5,Sales,20999.0266533518
+19,32611,PhD,4,San Antonio,Job_6,Operations,52287.45839644019
+57,94235,Bachelor,26,Los Angeles,Job_7,Engineering,38466.007309514396
+30,120811,Associate,19,San Jose,Job_8,IT,78431.99022514338
+38,123626,PhD,0,San Diego,Job_9,IT,62457.51130795914
+43,92792,Vocational,13,Houston,Job_10,HR,43356.38123373089
+66,136457,Technical,14,Philadelphia,Job_11,Marketing,35120.36376458734
+44,93258,Master,11,San Jose,Job_12,Operations,61913.38261658397
+58,81826,Associate,1,Dallas,Job_13,Legal,48807.625879403044
+21,113696,Master,4,San Jose,Job_14,Marketing,20567.347805080586
+61,121822,Bachelor,21,Los Angeles,Job_15,Operations,34462.271645319815
+57,79826,PhD,8,Philadelphia,Job_16,Legal,51793.42585227324
+66,27835,Vocational,10,San Diego,Job_17,HR,63504.256393065385
+31,126348,Associate,24,San Diego,Job_18,HR,54172.88336772742
+19,72356,Technical,28,Chicago,Job_19,Customer Service,54095.234101192626
+62,148749,PhD,17,New York,Job_20,Sales,46423.35071372049
+65,86769,High School,28,Chicago,Job_21,Operations,83010.72293770078
+45,81215,PhD,23,San Antonio,Job_22,R&D,49350.801319259255
+54,38132,Technical,27,Chicago,Job_23,Finance,59962.072950695336
+48,77383,Vocational,19,Phoenix,Job_24,Legal,20614.792966978082
+29,75427,Bachelor,24,Los Angeles,Job_25,IT,29314.868014668606
+42,111016,PhD,26,Los Angeles,Job_26,Customer Service,30636.78195319856
+61,74706,High School,28,San Antonio,Job_27,Operations,44259.99865333579
+50,30063,Technical,18,San Antonio,Job_28,Engineering,45823.43973533637
+26,131232,High School,4,Dallas,Job_29,Sales,54665.741972282594
+37,109570,PhD,1,Dallas,Job_30,Marketing,52172.96496699198
+66,40035,Bachelor,1,San Jose,Job_31,Marketing,48511.469374937304
+26,56171,High School,24,San Jose,Job_32,Engineering,63244.28475035586
+37,72759,PhD,19,Philadelphia,Job_33,R&D,37630.2445804887
+27,136183,High School,10,Dallas,Job_34,R&D,50287.50842241368
+37,66435,Bachelor,18,Houston,Job_35,IT,68342.96713353737
+39,133238,Associate,12,Dallas,Job_36,Legal,55859.442331459184
+35,145020,Vocational,5,Chicago,Job_37,R&D,36401.33264240368
+28,90587,High School,27,San Diego,Job_38,Customer Service,63701.58716773796
+65,92593,Technical,3,Houston,Job_39,HR,49411.95431449955
+50,88381,Master,13,San Jose,Job_40,Marketing,78707.01855992929
+44,137742,High School,2,New York,Job_41,Marketing,54960.8251780678
+59,53546,PhD,17,Chicago,Job_42,IT,66085.17990061191
+42,81525,Associate,12,Los Angeles,Job_43,IT,59738.90325508779
+61,106071,Vocational,7,San Diego,Job_44,IT,54893.49947345098
+21,133486,High School,21,San Antonio,Job_45,Operations,33458.090325172896
+48,147731,Master,14,New York,Job_46,R&D,55013.55914158184
+25,52687,Bachelor,27,Los Angeles,Job_47,Marketing,52680.67591925352
+26,68777,Master,26,San Antonio,Job_48,R&D,52837.490847145345
+55,126492,High School,4,Dallas,Job_49,Customer Service,18917.607709803913
+59,139122,Associate,22,New York,Job_0,HR,62887.84000325176
+42,42101,Bachelor,5,Phoenix,Job_1,HR,62674.788356464516
+49,30321,High School,0,New York,Job_2,Finance,57841.49816822898
+51,29772,High School,4,Chicago,Job_3,Legal,77597.46115303967
+53,27451,PhD,1,New York,Job_4,R&D,59180.748599576735
+40,142705,Bachelor,4,San Jose,Job_5,Sales,42709.82144202228
+54,74068,Bachelor,4,Los Angeles,Job_6,IT,58465.79594892062
+24,76906,Technical,17,San Antonio,Job_7,Legal,69317.95890253219
+63,147936,Associate,27,Dallas,Job_8,Marketing,80909.61753720258
+57,94526,Master,22,Chicago,Job_9,Operations,62934.1354813208
+23,139137,Vocational,20,San Antonio,Job_10,Legal,56723.93328927509
+42,29298,Technical,2,San Diego,Job_11,Operations,56795.36354738596
+46,144273,High School,28,Los Angeles,Job_12,Customer Service,26896.10091823091
+25,130565,Technical,17,New York,Job_13,IT,70046.80552143443
+69,138096,Bachelor,14,San Diego,Job_14,Marketing,56604.454112561936
+56,64826,Master,17,San Antonio,Job_15,Engineering,66587.934913253
+24,130682,Bachelor,6,Phoenix,Job_16,Finance,55625.32557898781
+66,38858,High School,15,Chicago,Job_17,IT,36757.50727595588
+54,66473,Technical,16,Dallas,Job_18,R&D,19298.92297301702
+31,114599,Vocational,29,Philadelphia,Job_19,Marketing,59712.5780722654
+68,57283,Associate,7,Houston,Job_20,Finance,49243.175966133946
+20,67278,Associate,21,Philadelphia,Job_21,Operations,60559.66949701969
+53,74857,Bachelor,19,New York,Job_22,HR,50725.10001189701
+65,68394,Associate,8,New York,Job_23,Engineering,62911.645946926204
+57,61156,Bachelor,25,Los Angeles,Job_24,HR,74013.13603783958
+55,89985,Master,13,Philadelphia,Job_25,Operations,53108.12913004018
+23,77621,Vocational,19,San Diego,Job_26,Finance,45636.0058013379
+59,117035,Bachelor,18,Houston,Job_27,R&D,23355.12762069801
+19,62439,Technical,1,Los Angeles,Job_28,Marketing,54694.49769041624
+58,135799,High School,20,San Jose,Job_29,HR,34994.30332994816
+28,127436,PhD,9,New York,Job_30,R&D,26858.727520809705
+37,84261,Associate,26,Philadelphia,Job_31,R&D,67576.62422680981
+63,87662,Associate,12,San Antonio,Job_32,Operations,59994.64670535207
+46,21160,Associate,8,San Diego,Job_33,Legal,42071.03978997091
+69,71094,Technical,24,Philadelphia,Job_34,Operations,36180.59330238204
+57,33072,High School,8,Dallas,Job_35,Sales,49520.60274106693
+47,65415,PhD,5,Phoenix,Job_36,Marketing,57514.51735342242
+21,78048,Associate,11,Phoenix,Job_37,Engineering,34242.92064322834
+46,56182,Technical,11,Houston,Job_38,Finance,63585.249137328035
+42,123232,Technical,12,San Antonio,Job_39,Sales,51161.87076928156
+51,44645,PhD,12,Houston,Job_40,Operations,59677.63351529428
+30,62654,Master,26,Dallas,Job_41,HR,38676.61500327198
+52,68881,High School,11,New York,Job_42,Customer Service,80574.00882894716
+30,45613,Bachelor,18,Philadelphia,Job_43,Finance,47613.022795509445
+49,100657,Vocational,8,New York,Job_44,HR,43432.192874266424
+53,146835,Bachelor,20,New York,Job_45,IT,58449.804599069714
+30,39454,Master,21,San Jose,Job_46,Customer Service,42525.31297426315
+48,133709,PhD,6,Philadelphia,Job_47,Finance,50561.32077974382
+60,79846,Bachelor,7,Philadelphia,Job_48,Marketing,72725.13778735246
+55,117016,Master,29,Phoenix,Job_49,Legal,54272.91615033018
+29,93976,Vocational,2,San Jose,Job_0,Operations,59715.74148453471
+47,103341,Technical,25,Houston,Job_1,R&D,44128.93275050187
+51,51719,PhD,10,Chicago,Job_2,R&D,75021.00532856554
+33,60865,Bachelor,13,San Antonio,Job_3,Engineering,35872.89191722115
+34,82106,PhD,11,San Jose,Job_4,Finance,73520.9208686072
+59,69910,Technical,17,San Antonio,Job_5,Operations,71361.31188228456
+23,34347,High School,5,Chicago,Job_6,Operations,38795.74127793642
+31,112515,Bachelor,9,San Diego,Job_7,IT,38172.11017411666
+41,113197,High School,13,Chicago,Job_8,IT,39808.167978700054
+23,124333,Master,18,Chicago,Job_9,Finance,44493.324415756084
+68,146583,Associate,2,Philadelphia,Job_10,Marketing,32857.44355643609
+18,148173,Master,5,Houston,Job_11,Engineering,68427.37942294165
+31,107912,High School,26,San Antonio,Job_12,IT,50859.38793104144
+35,88227,Associate,18,Philadelphia,Job_13,Engineering,34311.76985876108
+66,109970,Bachelor,18,Chicago,Job_14,Legal,58859.32315877521
+60,21555,Associate,2,Houston,Job_15,IT,52871.63465223149
+58,35249,Technical,12,Dallas,Job_16,IT,62242.86175393874
+28,28215,High School,23,Phoenix,Job_17,IT,37890.50984050408
+65,116020,Associate,6,Los Angeles,Job_18,R&D,55030.41539290545
+26,106571,High School,5,San Diego,Job_19,Marketing,60557.53658042017
+44,20422,Technical,9,Phoenix,Job_20,Sales,58464.871663846
+66,47418,Master,11,Dallas,Job_21,Operations,45429.8475643644
+60,26853,Master,17,Houston,Job_22,Operations,74150.40337821042
+50,149911,High School,28,New York,Job_23,IT,38491.70496540527
+30,142793,PhD,13,Phoenix,Job_24,Engineering,60848.608983054146
+38,134910,Technical,1,San Jose,Job_25,R&D,53098.88632358021
+43,70877,Associate,18,San Jose,Job_26,Marketing,63118.7685689565
+65,66817,Associate,7,New York,Job_27,Engineering,30311.354225719264
+37,120005,Technical,11,San Diego,Job_28,R&D,57156.12084696943
+60,138233,Master,12,Dallas,Job_29,Sales,65444.96147766868
+41,94763,Technical,11,New York,Job_30,Engineering,28165.78622172215
+57,30283,PhD,15,San Diego,Job_31,Sales,47943.30129636439
+48,43474,Technical,25,Houston,Job_32,Operations,58967.47925418265
+35,29590,Vocational,18,San Antonio,Job_33,R&D,50778.47655678467
+18,62245,Master,7,Phoenix,Job_34,Sales,54206.86955668476
+62,22830,Master,23,Los Angeles,Job_35,Customer Service,50789.97736279774
+53,44405,Master,29,San Diego,Job_36,Engineering,47027.010727046814
+38,138122,PhD,27,New York,Job_37,Finance,47573.90732116451
+49,95152,Master,18,Phoenix,Job_38,Customer Service,47134.116299368645
+58,132814,PhD,1,San Jose,Job_39,HR,57928.35656046508
+61,118086,Vocational,15,Chicago,Job_40,IT,53984.56044022776
+38,24899,High School,3,Chicago,Job_41,Legal,46619.01420380709
+19,74461,PhD,17,Phoenix,Job_42,Sales,37238.06789944002
+25,78841,Associate,21,Houston,Job_43,Finance,13283.44055575147
+30,54648,High School,20,New York,Job_44,HR,47278.81581525596
+69,59427,PhD,3,Philadelphia,Job_45,Marketing,68237.87653135275
+66,87674,Bachelor,26,Phoenix,Job_46,Finance,25659.135490371333
+68,86311,Vocational,12,San Diego,Job_47,Customer Service,26839.050987013954
+40,133784,Technical,8,San Antonio,Job_48,R&D,47161.48156003433
+52,64241,Technical,11,Los Angeles,Job_49,Finance,70561.24547803262
+23,117913,Master,2,Houston,Job_0,Operations,23050.46412880004
+32,68713,Technical,11,Houston,Job_1,Customer Service,56701.091403340615
+35,141675,Master,17,San Jose,Job_2,Operations,62791.8055960258
+51,121234,Technical,20,Phoenix,Job_3,HR,25966.848277586527
+23,112762,Bachelor,9,Dallas,Job_4,Legal,68808.20355781035
+21,106442,Technical,22,Phoenix,Job_5,Marketing,51538.2069803
+55,106258,High School,25,Los Angeles,Job_6,Engineering,28859.116227940984
+65,110306,Bachelor,3,Los Angeles,Job_7,Customer Service,32006.201660557013
+32,30227,Master,28,Phoenix,Job_8,Legal,54910.4585691471
+28,94859,Vocational,24,Phoenix,Job_9,Engineering,23199.178732871413
+26,28780,PhD,14,Chicago,Job_10,Finance,44174.13906671569
+25,133467,Technical,12,Houston,Job_11,Finance,60839.5014208306
+68,76265,Technical,28,New York,Job_12,IT,52937.51306779769
+67,90939,Technical,10,New York,Job_13,Engineering,48521.81650950371
+38,127064,Technical,23,San Diego,Job_14,HR,14989.006955631463
+39,127224,High School,3,Los Angeles,Job_15,Legal,24507.11821188115
+49,46647,Bachelor,0,Dallas,Job_16,HR,44612.6685279816
+18,118655,Master,14,Houston,Job_17,Marketing,19340.033736184712
+18,27952,Technical,13,San Diego,Job_18,Marketing,40622.11959335773
+47,23200,Vocational,17,Houston,Job_19,R&D,14980.710100255928
+27,125560,Associate,11,Chicago,Job_20,Finance,42794.50813101843
+30,143036,Master,6,San Jose,Job_21,Marketing,43311.754319198175
+42,93534,PhD,13,Houston,Job_22,Marketing,51601.58905531321
+57,111683,Associate,24,San Diego,Job_23,IT,70804.67905278759
+30,34104,High School,26,Houston,Job_24,Customer Service,55843.72377214323
+45,73765,Master,27,San Antonio,Job_25,Marketing,53880.98068600618
+18,56595,High School,3,San Antonio,Job_26,Sales,51285.046986989364
+50,40749,Technical,16,San Diego,Job_27,R&D,35632.880663478136
+38,41528,PhD,29,Philadelphia,Job_28,Operations,31336.381065182173
+63,133011,Technical,8,San Diego,Job_29,HR,49719.71659969203
+53,121894,Vocational,23,San Diego,Job_30,Sales,62984.08314606419
+54,102685,Bachelor,13,Los Angeles,Job_31,Customer Service,64224.289940943214
+34,92676,High School,11,Los Angeles,Job_32,Engineering,61139.22362634317
+65,45880,Bachelor,28,San Antonio,Job_33,Legal,57400.18106158477
+58,102269,Bachelor,25,Philadelphia,Job_34,Marketing,49568.328475334994
+29,81228,PhD,14,Phoenix,Job_35,HR,51075.23822504281
+23,133259,PhD,4,Chicago,Job_36,Operations,40443.71264148265
+20,64321,High School,24,Houston,Job_37,Sales,62194.10990791784
+29,140305,PhD,29,San Antonio,Job_38,Legal,49335.21225060216
+38,101478,PhD,19,San Antonio,Job_39,Marketing,65050.55740045223
+63,44807,High School,8,New York,Job_40,Customer Service,61462.03895861507
+52,92332,High School,9,Los Angeles,Job_41,Sales,15601.087842271438
+26,35407,Master,29,San Antonio,Job_42,Marketing,61772.40171524482
+57,83095,Associate,2,Houston,Job_43,Sales,58073.79014110726
+21,78511,PhD,2,New York,Job_44,Marketing,41607.405869170165
+32,107469,Associate,23,Philadelphia,Job_45,R&D,57481.870080227796
+69,72496,Associate,26,New York,Job_46,R&D,48573.37760981694
+59,92867,High School,29,Chicago,Job_47,IT,51709.232564761754
+65,138172,Associate,13,Phoenix,Job_48,R&D,47617.58338298304
+58,48117,Bachelor,22,San Diego,Job_49,Sales,44220.208457081695
+20,100196,Master,23,Dallas,Job_0,IT,69206.5165418155
+58,51904,Vocational,6,Phoenix,Job_1,Finance,48502.178262039764
+28,41178,PhD,29,San Jose,Job_2,Sales,65762.95148116723
+38,108911,Master,8,Dallas,Job_3,Engineering,31938.352681795808
+60,130678,Vocational,19,New York,Job_4,R&D,64962.81484480552
+43,117297,Technical,18,New York,Job_5,Sales,26492.321196836823
+42,133397,High School,7,Philadelphia,Job_6,Engineering,62359.14415852439
+27,130777,Bachelor,12,Phoenix,Job_7,R&D,29855.80147678395
+69,117774,High School,20,Dallas,Job_8,Operations,63033.92519847164
+62,24274,Vocational,10,Phoenix,Job_9,Legal,31594.889390806344
+38,20956,Bachelor,29,New York,Job_10,Legal,44103.09749777901
+55,123151,Vocational,0,Phoenix,Job_11,Engineering,46221.92316100691
+64,76930,Technical,27,San Antonio,Job_12,Operations,59756.49101120864
+31,134718,Technical,26,New York,Job_13,IT,74784.97150609185
+28,94944,Technical,2,Los Angeles,Job_14,IT,45906.54377134083
+43,41582,Bachelor,7,Chicago,Job_15,HR,40676.73757702261
+67,77678,High School,8,Chicago,Job_16,Marketing,33892.4695587304
+56,28899,Associate,6,San Antonio,Job_17,Operations,75089.22270526156
+63,67659,Bachelor,18,New York,Job_18,HR,28752.19055167762
+37,43286,PhD,25,Houston,Job_19,Marketing,41305.724878042536
+22,35603,Technical,23,Dallas,Job_20,R&D,43156.050139363426
+58,102998,High School,5,New York,Job_21,Marketing,33711.10663996489
+34,40711,High School,28,San Jose,Job_22,Engineering,63061.05558409887
+44,39737,PhD,21,Chicago,Job_23,Marketing,44943.087190595776
+30,141809,High School,4,Dallas,Job_24,Legal,64766.07714305156
+26,37833,Vocational,19,Dallas,Job_25,Legal,56968.215843961734
+35,98356,PhD,14,New York,Job_26,R&D,53367.20125955179
+66,94750,Bachelor,12,San Diego,Job_27,R&D,29883.666456677318
+34,87833,PhD,15,New York,Job_28,Customer Service,69092.98148996636
+30,91075,Vocational,16,Chicago,Job_29,IT,46720.97432496604
+59,43742,Bachelor,22,New York,Job_30,Customer Service,84550.06549909504
+18,123476,High School,15,New York,Job_31,Finance,50519.56372270549
+66,78806,High School,23,San Jose,Job_32,Sales,38675.08864691471
+29,71605,PhD,23,San Antonio,Job_33,Engineering,48474.99265617219
+18,136515,PhD,23,New York,Job_34,R&D,63449.06484274745
+30,140643,Technical,14,San Diego,Job_35,Operations,76645.64199142123
+55,24879,Associate,2,San Jose,Job_36,R&D,68364.45111887086
+41,39828,Technical,20,Phoenix,Job_37,Sales,47640.03907596391
+27,117562,High School,13,San Antonio,Job_38,R&D,45456.5787855656
+40,88669,High School,8,San Antonio,Job_39,R&D,78125.49783966459
+54,49893,Associate,2,New York,Job_40,Operations,58657.98045975186
+54,71462,Technical,20,San Antonio,Job_41,Marketing,37902.57947511792
+66,144894,PhD,27,San Jose,Job_42,Engineering,70620.95414849953
+66,46425,Associate,17,New York,Job_43,Engineering,30766.438581824423
+46,113713,PhD,19,Dallas,Job_44,Customer Service,58698.986595719274
+67,119273,PhD,26,San Antonio,Job_45,Legal,53967.77419412651
+43,34288,PhD,3,Philadelphia,Job_46,HR,72046.46660237876
+59,21881,Associate,21,New York,Job_47,Legal,12580.028694215696
+50,132258,Associate,25,New York,Job_48,Sales,43516.26540968386
+29,122873,Technical,4,Phoenix,Job_49,Customer Service,74423.32512246563
+56,43422,Vocational,12,San Diego,Job_0,Sales,62439.21630512719
+37,62094,Vocational,9,Houston,Job_1,Operations,55459.783766408305
+53,147778,Technical,12,San Antonio,Job_2,R&D,56131.59014866345
+27,53762,PhD,20,Los Angeles,Job_3,HR,43931.90848143757
+29,34784,PhD,25,San Jose,Job_4,Finance,28031.65513626683
+24,36651,Master,11,San Jose,Job_5,Finance,45835.35258375534
+26,144645,High School,17,Houston,Job_6,Customer Service,41657.580808768886
+23,100678,Vocational,3,San Antonio,Job_7,Finance,69817.05435964515
+48,129296,Associate,28,San Antonio,Job_8,Marketing,50028.42663993034
+49,127095,Technical,25,Chicago,Job_9,R&D,69539.69767686864
+37,66437,PhD,24,San Jose,Job_10,Customer Service,56553.61754570625
+40,54313,Associate,2,San Antonio,Job_11,IT,45829.97150253985
+20,116784,Master,2,Dallas,Job_12,Legal,51579.02899994736
+32,97507,Bachelor,2,Phoenix,Job_13,IT,31653.798858218957
+31,125117,High School,6,Chicago,Job_14,R&D,47423.338750446506
+28,129359,Technical,25,San Diego,Job_15,R&D,45182.719603274265
+59,71612,PhD,28,New York,Job_16,Sales,57652.40628221538
+58,109011,PhD,8,New York,Job_17,HR,37938.33366945331
+27,92834,PhD,0,Los Angeles,Job_18,IT,20189.31331386172
+57,39887,Associate,19,Philadelphia,Job_19,Engineering,53659.477517175255
+32,94075,Vocational,17,New York,Job_20,Operations,32015.558310079585
+66,54639,Associate,19,San Diego,Job_21,Customer Service,43152.38405700433
+29,79542,Vocational,27,Phoenix,Job_22,Legal,66515.15907037767
+22,143365,Associate,27,Los Angeles,Job_23,Marketing,71068.1305586974
+54,95605,Vocational,25,San Diego,Job_24,IT,26141.086138289884
+67,95017,Associate,28,Chicago,Job_25,IT,52029.42223014056
+27,38514,Master,9,Houston,Job_26,IT,53920.033397669846
+50,129659,Vocational,22,Chicago,Job_27,Finance,30495.26979438727
+26,50057,PhD,11,Los Angeles,Job_28,HR,66608.92189299778
+55,49548,Vocational,3,Chicago,Job_29,Operations,65491.060282006314
+51,21758,Technical,2,Dallas,Job_30,Engineering,36970.2113511487
+67,20518,Bachelor,5,New York,Job_31,IT,62998.140909007285
+47,124329,High School,2,Chicago,Job_32,Customer Service,52581.95117684079
+59,144753,Vocational,28,Philadelphia,Job_33,Marketing,60707.464934334406
+52,111345,Vocational,10,San Antonio,Job_34,Marketing,82534.16961110538
+36,124748,Bachelor,9,Philadelphia,Job_35,HR,40876.75075818609
+18,115946,Vocational,28,Los Angeles,Job_36,Sales,68110.79385644481
+68,102065,Associate,1,San Jose,Job_37,Marketing,49359.21721949349
+24,61512,Bachelor,14,Houston,Job_38,Operations,78728.15848307441
+45,24394,Bachelor,13,Chicago,Job_39,Sales,60917.08936242471
+19,79606,Master,6,San Diego,Job_40,Sales,56659.66621747336
+44,117571,Vocational,7,San Diego,Job_41,Sales,50675.87004771326
+52,77510,Master,25,San Jose,Job_42,Customer Service,28312.788447777813
+57,47719,Technical,12,Philadelphia,Job_43,Operations,55633.42317031753
+64,113126,PhD,18,Phoenix,Job_44,R&D,44864.776055865215
+40,39670,PhD,25,San Jose,Job_45,Sales,40872.67821374473
+20,26083,Bachelor,14,Dallas,Job_46,Marketing,44445.550239101554
+21,137505,Master,25,Dallas,Job_47,HR,61337.24223827987
+38,68808,Master,26,Phoenix,Job_48,Legal,58606.95993248884
+51,113085,Technical,23,San Jose,Job_49,Legal,49109.92281254081

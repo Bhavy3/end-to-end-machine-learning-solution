@@ -1,0 +1,201 @@
+age,income,education,experience,location,job_satisfaction,target
+51,26964,Master,19,Rural,High,2
+56,104932,Bachelor,5,Suburban,Low,1
+59,132957,Bachelor,19,Suburban,Low,2
+30,42852,Master,29,Rural,Medium,0
+58,53454,Bachelor,1,Urban,Medium,2
+33,60084,High School,7,Rural,Low,2
+47,44268,High School,6,Rural,Medium,1
+23,86195,Bachelor,15,Urban,Low,1
+48,100409,PhD,1,Rural,Low,1
+25,99652,PhD,13,Urban,Medium,0
+19,145994,PhD,15,Urban,High,2
+30,27789,High School,23,Suburban,High,2
+19,30839,PhD,17,Urban,High,1
+69,143554,Master,10,Urban,High,0
+62,58001,Bachelor,8,Suburban,Low,0
+55,52334,Master,7,Suburban,Low,1
+31,144956,Bachelor,20,Rural,Medium,0
+55,129241,Master,3,Urban,High,1
+31,107387,High School,1,Suburban,High,0
+47,58450,Master,4,Urban,Medium,1
+68,71105,Master,8,Urban,Low,2
+49,74874,Master,13,Rural,Medium,0
+34,81966,Master,14,Suburban,Low,2
+56,30542,Bachelor,15,Suburban,High,0
+67,45412,Master,20,Urban,Low,0
+60,56996,High School,0,Rural,High,0
+27,105057,Master,29,Rural,High,2
+48,26019,Bachelor,27,Urban,Medium,0
+69,49853,High School,13,Suburban,Medium,2
+18,55948,Bachelor,7,Urban,Medium,0
+21,146219,High School,28,Urban,High,2
+66,110970,Bachelor,4,Rural,Medium,1
+47,73132,High School,8,Rural,High,2
+49,99478,PhD,29,Rural,Medium,0
+54,147806,Bachelor,3,Suburban,Medium,1
+54,149005,Master,29,Rural,Low,0
+42,96394,Bachelor,0,Rural,High,1
+67,111448,PhD,16,Suburban,Medium,1
+69,27898,High School,29,Rural,High,1
+61,77210,PhD,21,Rural,High,1
+34,124903,High School,25,Urban,High,2
+25,35862,Master,17,Rural,High,0
+53,71608,PhD,16,Suburban,High,0
+34,49388,Bachelor,12,Suburban,High,2
+68,112322,Bachelor,14,Urban,High,0
+60,126772,High School,10,Rural,Medium,2
+63,47745,High School,12,Urban,High,1
+40,86768,Bachelor,25,Urban,Medium,1
+62,61169,Bachelor,5,Suburban,Medium,2
+56,99551,PhD,27,Urban,Low,0
+54,119464,PhD,21,Rural,Low,1
+41,137771,Master,25,Urban,High,1
+61,144615,High School,7,Suburban,Medium,2
+38,43221,PhD,7,Urban,High,1
+30,95380,High School,10,Rural,Medium,2
+55,128096,PhD,26,Rural,Medium,2
+24,34154,PhD,26,Rural,High,0
+33,124520,Bachelor,10,Suburban,High,0
+36,97627,Bachelor,21,Suburban,Low,2
+26,98948,PhD,27,Urban,Medium,0
+45,139252,Master,28,Suburban,Low,1
+60,74761,High School,2,Urban,High,1
+56,57097,PhD,22,Suburban,High,0
+47,112545,Master,28,Rural,High,0
+48,99398,Master,15,Rural,High,0
+48,100946,Bachelor,4,Rural,High,0
+28,56716,Master,8,Suburban,Low,1
+32,36118,Master,0,Rural,Medium,2
+36,80818,Master,15,Suburban,High,0
+62,30283,PhD,9,Rural,Medium,1
+50,64626,Bachelor,19,Suburban,Low,0
+65,70162,Master,19,Urban,Low,2
+41,105429,Bachelor,7,Rural,High,1
+24,134954,Master,14,Rural,High,2
+25,49735,Master,8,Suburban,Low,2
+35,24946,PhD,10,Rural,Medium,2
+22,38739,Master,29,Rural,High,0
+61,31724,High School,7,Suburban,High,2
+30,107251,High School,1,Urban,High,0
+22,48896,High School,8,Rural,Low,0
+20,92285,High School,7,Rural,Medium,1
+35,114307,High School,14,Urban,Low,2
+30,23397,Master,7,Suburban,High,1
+68,122653,Master,24,Rural,Medium,0
+52,89930,Master,12,Urban,High,2
+32,117279,Bachelor,6,Urban,Medium,1
+49,25628,High School,27,Rural,Medium,0
+62,73114,PhD,17,Rural,Low,2
+61,81345,Master,4,Rural,High,0
+58,91845,Bachelor,15,Rural,High,2
+52,64063,PhD,29,Suburban,Low,2
+31,90068,PhD,11,Urban,Medium,1
+44,37716,PhD,27,Rural,Low,1
+24,100022,High School,14,Suburban,High,1
+23,117094,High School,11,Suburban,High,1
+62,59579,High School,15,Rural,High,1
+64,51585,High School,15,Suburban,Medium,1
+39,50672,PhD,17,Urban,Medium,1
+28,57926,High School,26,Suburban,Medium,0
+51,105671,Bachelor,26,Urban,Medium,1
+59,43788,Bachelor,25,Suburban,High,0
+53,101352,PhD,25,Suburban,Medium,2
+46,101065,High School,21,Suburban,High,2
+37,52302,Master,13,Suburban,Low,0
+38,109616,Bachelor,2,Suburban,High,2
+46,112048,High School,6,Urban,Low,1
+53,38913,High School,21,Suburban,Medium,1
+57,61367,Bachelor,16,Rural,Medium,2
+51,75568,Master,14,Rural,Low,0
+57,125318,PhD,14,Urban,High,2
+67,37041,High School,26,Urban,Medium,2
+34,135315,Master,14,Rural,High,0
+52,107886,Master,25,Urban,Low,0
+63,61905,Bachelor,20,Urban,High,2
+56,65516,Bachelor,12,Urban,Medium,2
+66,85139,Master,27,Urban,High,0
+67,22284,High School,14,Rural,Low,2
+55,89329,PhD,5,Rural,Low,0
+30,22589,Bachelor,6,Suburban,High,2
+52,141754,Bachelor,4,Suburban,Low,1
+32,65800,High School,13,Suburban,Medium,0
+65,130700,High School,1,Suburban,High,2
+40,149073,Master,3,Suburban,High,1
+61,137833,Bachelor,15,Urban,Low,0
+26,20075,High School,4,Suburban,Medium,0
+22,149459,Master,24,Rural,Medium,0
+32,92590,PhD,25,Rural,Low,0
+61,103936,PhD,0,Suburban,High,0
+20,74159,High School,18,Rural,Low,0
+22,73211,High School,25,Rural,High,1
+35,21365,PhD,19,Rural,Medium,1
+42,25717,Bachelor,10,Suburban,Low,2
+38,101066,Master,0,Suburban,Low,0
+45,131189,High School,11,Urban,Low,0
+26,108096,Master,1,Urban,Medium,2
+50,53433,Master,21,Rural,Medium,0
+47,82968,PhD,28,Suburban,Medium,2
+21,99757,High School,20,Suburban,Medium,2
+28,116757,Master,26,Rural,High,1
+23,45925,High School,6,Suburban,Medium,1
+57,83703,PhD,18,Rural,Medium,0
+26,47657,Master,8,Rural,Low,2
+19,114969,High School,4,Suburban,Medium,0
+62,109707,High School,23,Rural,Low,2
+55,67655,High School,9,Urban,Medium,2
+50,26063,PhD,22,Urban,High,2
+54,85513,PhD,1,Rural,High,0
+52,32937,Bachelor,2,Rural,High,1
+21,71797,Master,1,Suburban,Medium,1
+41,145744,PhD,9,Rural,Low,2
+20,111977,Bachelor,17,Rural,Low,2
+69,118740,High School,26,Urban,High,0
+55,61071,PhD,29,Urban,Low,1
+36,65074,High School,27,Suburban,Medium,1
+42,135221,High School,6,Urban,Medium,1
+29,48668,Bachelor,10,Rural,Low,0
+40,82533,Master,24,Suburban,Low,0
+66,77768,Bachelor,28,Urban,Medium,0
+66,43886,High School,12,Suburban,Medium,2
+29,132857,Master,1,Urban,High,2
+47,98900,High School,25,Rural,High,1
+27,112691,Bachelor,7,Suburban,Low,0
+64,101671,PhD,13,Suburban,Low,2
+48,47680,PhD,9,Urban,Medium,2
+66,61649,Bachelor,13,Urban,Low,0
+31,131544,PhD,18,Suburban,Medium,1
+48,25243,PhD,22,Urban,High,0
+41,92590,Bachelor,10,Rural,Medium,1
+42,26007,Master,22,Rural,High,2
+58,66047,High School,2,Urban,Low,2
+20,57666,Bachelor,9,Rural,Medium,0
+48,79883,Master,7,Suburban,Medium,1
+58,86085,PhD,28,Suburban,Medium,1
+58,82949,Bachelor,21,Urban,Low,0
+34,120346,PhD,16,Rural,High,2
+20,144105,Master,19,Rural,High,0
+29,90255,PhD,11,Urban,Medium,0
+21,144074,Bachelor,6,Suburban,Medium,0
+62,119603,Master,28,Suburban,Low,1
+50,83255,Master,7,Suburban,High,1
+29,83188,PhD,18,Rural,High,2
+33,44476,Bachelor,29,Suburban,High,2
+31,86468,Master,8,Urban,Medium,1
+55,35377,High School,3,Urban,High,0
+58,136981,PhD,29,Rural,High,1
+35,82644,High School,9,Urban,High,1
+22,63848,Master,5,Suburban,Low,0
+28,26668,Master,20,Rural,Low,2
+27,88879,Master,17,Rural,Low,1
+56,90274,PhD,29,Suburban,High,1
+66,116415,Bachelor,1,Urban,High,0
+36,42206,Master,9,Suburban,Low,1
+55,130460,High School,1,Rural,Low,2
+63,81307,PhD,27,Rural,Medium,0
+52,69598,PhD,2,Urban,High,0
+57,37575,PhD,22,Rural,High,0
+46,144663,Master,21,Suburban,Medium,1
+54,82825,Bachelor,15,Rural,High,1
+43,91997,Bachelor,16,Rural,High,1
+22,31271,PhD,3,Suburban,Medium,2
